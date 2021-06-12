@@ -1,3 +1,15 @@
-title: PAZL India
-description: Stealth startup || Architecture and Design
+title: PAZL
+description: Stealth startup || Interior Design
 theme: minima
+
+include:
+    - _pages
+
+header_pages:
+    - _pages/about.md
+
+exclude:
+    - .gitignore
+    - Gemfile
+    - CNAME
+    - README.md
