@@ -1,9 +1,12 @@
 ---
-title: "Dynamic 3D Modelling"
+title: "Dynamic 3D Modeling"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2
 ---
+
+Design your room with real modules and textures and get live pricing estimates using our [3D modeler](http://prototype.pazl.in/).
+
 
 After creating a moodboard, the next step involves the expert assistance of a
 PAZL certified Interior designer, who will work closely with users to craft a
