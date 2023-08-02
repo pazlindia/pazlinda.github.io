@@ -5,6 +5,10 @@ featured: true
 weight: 3
 ---
 
+Walk through your dream home...before it gets built.
+
+![Hololens](/images/services/hololens.jpg)
+
 PAZL introduces a groundbreaking approach to interior design, harnessing the
 power of Microsoft Holo Lens 2, a cutting-edge mixed reality device. Through
 this innovative technology, users can now visualize their spaces with
