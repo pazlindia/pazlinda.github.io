@@ -8,6 +8,9 @@ weight: 1
 With [PAZL-Inspire](https://inspire.pazl.in/), let Artificial Intelligence
 inspire you to design your next home.
 
+![PAZLInspire](/images/services/inspire-screenshot-1.png)
+![PAZLInspire](/images/services/inspire-screenshot-2.png)
+
 Upon logging into the app, users can effortlessly upload images of their homes.
 Within our extensive collection, they can then choose their preferred design
 style. Once this selection is made, PAZL Inspire employs the power of
