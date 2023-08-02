@@ -6,7 +6,7 @@ image: "images/team/vince-fleming-613817-unsplash.jpg"
 jobtitle: "Designer"
 linkedinurl: "https://www.linkedin.com/"
 weight: 4
-promoted: true
+promoted: false
 ---
 
 Also dope.
