@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Certified Architects",
+    "description": "All members of our team are certified architects.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Standards Compliance",
+    "description": "We stay up to date on the latest changes to the construction codes.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
