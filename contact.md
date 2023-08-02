@@ -4,4 +4,4 @@ layout: contact
 description: Contact
 ---
 
-Feel free to drop us an email with any questions you might have. We look forward to hearing from you!
+Our office and experience centers are located in Chennai, India. For any questions about the PAZL platform, please drop us an email or call us at the number listed below.
