@@ -3,8 +3,8 @@ title: "Karthik Malasani"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/karthik-malasani-prof.jpg"
-jobtitle: "C)O"
-linkedinurl: "https://www.linkedin.com/example2"
+jobtitle: "Chief Operating Officer"
+linkedinurl: "https://www.linkedin.com/in/karthik-malasani-79765210/"
 promoted: true
 weight: 2
 ---
