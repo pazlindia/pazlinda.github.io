@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# PAZL - Bringing technology to interior design
+# PAZL: Bringing technology to interior design
 
-We are building a suite of services and technology to disrupt the interior design industry. 
+Our interior design platform provides a wide range of serivces that will help turn your dream home into a reality.

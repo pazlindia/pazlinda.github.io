@@ -6,7 +6,7 @@ image: "images/team/sage-kirk-485982-unsplash.jpg"
 jobtitle: "CTO"
 linkedinurl: "https://www.linkedin.com/example2"
 promoted: true
-weight: 2
+weight: 3
 ---
 
 Raghu is a blah blah.
