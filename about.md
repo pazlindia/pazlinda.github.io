@@ -5,27 +5,119 @@ description: About
 bodyClass: page-about
 ---
 
-PAZL is a cutting-edge, immersive 3D tool infused with an advanced Artificial Intelligence Engine, revolutionising interior design for spaces. PAZL empowers clients to effortlessly engage with designers, technicians, engineers, and manufacturers, fostering seamless teamwork to achieve the perfect home design.  With an inbuilt pricing engine and a manufacturing Cut-List optimizer, PAZL ensures unparalleled accuracy and cost-effectiveness for clients' projects.  Moreover, PAZL features a dynamic Marketplace and project management software that fosters synergy between designers and factories, optimising the entire interior design process. By disrupting an unorganised sector, PAZL aims to bring significant savings in cost, time, and overall quality for its customers.
+You have questions, and we have some answers for you. 
 
-# The PAZL Workflow
+- **What does PAZL do?**
 
-PAZL is a DIY interior design platform which requires no prior design experience. Here is how it works
- 
-## Design Unlimited with Inspure
- 
-Upon logging into the app, users can effortlessly upload images of their homes.  Within our extensive collection, they can then choose their preferred design style. Once this selection is made, PAZL Inspire employs the power of Artificial Intelligence to instantaneously transform the user's space, aligning it with the chosen design style. Thanks to our innovative inpaint module within the AI engine, clients can also seamlessly position furniture and experiment with different colors in real-time, allowing them to fine-tune their vision and create the perfect moodboard for their dream home. Users have the freedom to regenerate and redesign their spaces until they are entirely satisfied with the results.
- 
+    PAZL offers an immersive, high-tech 3D tool that empowers users to effortlessly
+design their dream homes from the comfort of their own space. With the aid of
+cutting-edge Artificial Intelligence, PAZL provides instant designs and
+renders, allowing users to visualize their ideas quickly. The integrated
+pricing engine and material optimizer ensure real-time cost estimation and
+efficient manufacturing of the designs. Additionally, PAZL introduces the
+exciting feature of mixed reality through Microsoft HoloLens 2, enabling users
+to experience and interact with their envisioned spaces in an entirely new way.
 
-## The Modeller
- 
-After creating a moodboard, the next step involves the expert assistance of a PAZL certified Interior designer, who will work closely with users to craft a highly accurate and detailed design for their space. Powered by a comprehensive web application, Pazl's 3D modeler comes equipped with an extensive library of thousands of modular furniture modules perfectly suited for any home. Users can easily customize their furniture selections, utilizing real-time renders for immediate visualization, along with intelligent pricing determined by a proprietary material optimizer, ensuring optimal cost-effectiveness.
- 
+- **How is it different from existing design software like Sketchup & Blender?**
 
-## Mixed Reality
- 
-PAZL introduces a groundbreaking approach to interior design, harnessing the power of Microsoft Holo Lens 2, a cutting-edge mixed reality device. Through this innovative technology, users can now visualize their spaces with unparalleled accuracy and immersion. By donning the Holo Lens 2, users can step into their empty space and witness the designed interior come to life, allowing them to walk around and interact with the virtual furniture. This transformative experience enables users to precisely visualize every aspect of their designed space. Moreover, with simple hand gestures and interactions, users can make real-time changes to the virtual environment, ensuring a seamless and dynamic design process that perfectly aligns with their vision.
- 
-## Your Dream Home
- 
-After the customer finalizes their design and expresses satisfaction, they can proceed to place their order. Within Pazl's marketplace, a curated selection of Pazl certified designers, engineers, manufacturers, and installers collaborates seamlessly to guarantee an exceptional outcome. This collaborative effort involves real-time site assessments, ensuring the design is precisely tailored to the specific conditions of the space. The detailed drawings produced by Pazl serve as the foundation for the manufacturing process, ensuring precision and accuracy. Thanks to this streamlined approach, customers can expect the delivery of high-quality home interiors within a remarkably efficient timeframe of 6-8 weeks.
+    PAZL sets itself apart from traditional design software like Sketchup and
+Blender by embracing a user-friendly approach. With a vast array of prebuilt,
+customized models/modules, users are spared the need to create designs from
+scratch, streamlining the process significantly. Unlike other design software,
+PAZL does not require technical expertise, making it accessible to anyone, even
+those without prior design experience.
+
+- **Is the software user-friendly for non-professional users?**
+
+    Absolutely! PAZL has been thoughtfully designed to cater to users without
+any technical background or design expertise. Formerly, individuals had to rely
+on external sources for design references, but with PAZL, they can now create
+their unique designs from start to finish, all with ease and control.
+
+- **What is the price validity for the modules listed on the site?**
+
+    The pricing provided on the platform is dynamic and subject to real-time
+changes. However, once a user confirms an order, their price is locked and will
+not be affected by subsequent fluctuations.
+
+- **How do I confirm the order once I have confirmed the design?**
+
+    Once users add their selected modules to the design and finalize it, the
+real-time pricing engine updates the cart. After reviewing the design, users
+can proceed to check out from the cart, effectively placing their order.
+
+- **How long does it take for my order to get delivered and installed?**
+
+    Upon placing the order and completing the design, a certified designer will
+review the project. Following that, a PAZL certified engineer will visit the
+site to ensure design accuracy, sizes, and site conditions. Any required
+modifications will be communicated to the user. After this, manufacturing will
+commence, followed by installation, resulting in a completion timeframe of 6-8
+weeks from the order placement date.
+
+- **What happens if my order is delayed?**
+
+    Any potential delays will be communicated to customers well in advance.
+Additionally, users will receive a discount on their order in case of a
+significant delay.
+
+- **Can I cancel my order once placed?**
+
+    Customers have a 48-hour window to cancel their order and receive a full refund.
+
+- **How long do I have to change my design once the order has been placed?**
+
+    Customers have 48 hours to make changes to their design. During this
+period, they also have the option to consult with PAZL's in-house designers for
+expert guidance.
+
+- **Would there be an in-person meeting with a design specialist or technician?**
+
+    Yes, users have the option to consult with PAZL's designers, engineers, and
+technicians at any stage of the design process.
+
+- **How would you assess real-time site conditions?**
+
+    PAZL certified engineers and technicians will be present at various times
+to monitor site conditions in real-time.
+
+- **Would I be able to do civil works/alterations & other MEP works via PAZL?**
+
+    Yes, PAZL's technicians are well-equipped to handle civil alterations and
+MEP works at an additional cost.
+
+- **What are the terms of warranty/guarantee?**
+
+    PAZL offers a 10-year warranty on catalogue products and a 1-year warranty on services.
+
+- **What is a cut-list optimizer?**
+
+    PAZL's Material/Cutlist optimizer is a state-of-the-art application
+tailored for panel cutting. It offers optimal solutions and cutting patterns
+based on available stock sheets and price optimization.
+
+- **Will there be a difference in order value based on site visit?**
+
+    Since virtual designing is based on customer-provided measurements, there
+might be slight variations in sizes during the site visit. Any resulting
+changes in the order value will be promptly communicated to the customer by
+PAZL's technical team.
+
+- **Would I be able to change colors of my floors, walls, and ceilings via the app?**
+
+    Yes, PAZL allows users to choose multiple color combinations, textures, and
+finishes for their walls, floors, furniture, and countertops.
+
+- **Does PAZL have design experts to do the designing if the user cannot?**
+
+    Yes, PAZL has a team of certified designers and architects available on the
+platform who can be consulted at any point during the design process. Customers
+also have the option to let the designer handle the entire home design if they
+prefer.
+
+- **Can I become a partner of PAZL?**
+
+    Certainly! PAZL is always seeking qualified designers, architects,
+technicians, engineers, and manufacturers to partner with and join their
+platform.
 
