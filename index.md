@@ -10,4 +10,4 @@ show_call_box: false
 
 # PAZL: Bringing technology to interior design
 
-Our interior design platform provides a wide range of serivces that will help turn your dream home into a reality.
+Our interior design platform provides a wide range of services that will help turn your dream home into a reality.
