@@ -4,7 +4,7 @@ layout: services
 description: Services
 intro_image: "images/illustrations/pixeltrue-support-1.svg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 ---
 
 # Technology to Design Your Dream Home
